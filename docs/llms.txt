@@ -1,10 +1,10 @@
-# AI-Kubernetes-API-Generator-Demo
+# ai-kubernetes-api-generator-demo
 
 > Demo: natural language to Kubernetes CRD + OpenAPI 3.0 spec via OpenRouter LLM, applied to a kind cluster for testing.
 
-AI-Kubernetes-API-Generator-Demo is maintained by Adventure Wave Labs (The lab for agentic developer tooling).
+ai-kubernetes-api-generator-demo is maintained by Adventure Wave Labs (The lab for agentic developer tooling).
 
 ## Links
 
-- [Landing page](https://adventurewave-labs.github.io/AI-Kubernetes-API-Generator-Demo/): overview, features, FAQ
-- [Source code](https://github.com/adventurewave-labs/AI-Kubernetes-API-Generator-Demo): README, issues, releases
+- [Landing page](https://adventurewave-labs.github.io/ai-kubernetes-api-generator-demo/): overview, features, FAQ
+- [Source code](https://github.com/adventurewave-labs/ai-kubernetes-api-generator-demo): README, issues, releases
