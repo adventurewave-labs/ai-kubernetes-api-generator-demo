@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adventurewave-labs.github.io/AI-Kubernetes-API-Generator-Demo/sitemap.xml
+Sitemap: https://adventurewave-labs.github.io/ai-kubernetes-api-generator-demo/sitemap.xml
