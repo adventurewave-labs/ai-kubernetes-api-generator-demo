@@ -671,4 +671,7 @@ Thumbs.db
 .swarm
 .hive-mind
 .mcp.json
-.github
+# NOTE: do not ignore `.github` here — it defeats the
+# `!.github/workflows/*.yml` whitelist above (git cannot re-include
+# files under an excluded directory), which is why this repo ended
+# up with zero CI workflows.
